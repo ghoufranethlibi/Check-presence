@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "5493470272",
+    "firebase_url": "https://check-presence-aa5d0-default-rtdb.firebaseio.com",
+    "project_id": "check-presence-aa5d0",
+    "storage_bucket": "check-presence-aa5d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5493470272:android:82c5ef32c64b8989011ba5",
+        "android_client_info": {
+          "package_name": "com.example.check_presence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKSeY6KMUriRU3R5pcpXANJg3fGzOaijU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
